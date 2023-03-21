@@ -1,0 +1,7 @@
+{
+  "name": "arbdemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
